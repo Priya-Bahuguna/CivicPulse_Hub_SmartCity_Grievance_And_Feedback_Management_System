@@ -1,8 +1,6 @@
-# 🌆CivicPulse Hub  
-## Unified Smart City Grievance & Feedback Management System
+# 🌆CivicPulse Hub Unified Smart City Grievance & Feedback Management System
 
 CivicPulse Hub is a full-stack civic issue management platform that allows citizens to submit and track grievances, officers to update progress, and admins to assign and analyze complaints — all in a secure, role-based system.
-
 ---
 
 ## 🚀 Features
@@ -44,8 +42,6 @@ CivicPulse Hub is a full-stack civic issue management platform that allows citiz
 ![App Screenshot](https://github.com/user-attachments/assets/2fabfe25-5da9-483f-a0e1-284c43851882)
 
 ---
-
-
 
 ---
 
