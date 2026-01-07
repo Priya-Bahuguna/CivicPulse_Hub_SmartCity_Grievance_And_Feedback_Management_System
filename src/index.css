@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@import 'tailwindcss';
+
+:root {
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-synthesis: none;
+  --page-bg: #F5F5F5; /* A light grey for the background */
+  --surface: #ffffff; /* White for cards and major surfaces */
+  --text-primary: #212121; /* Dark grey for primary text */
+  --text-muted: #757575; /* Medium grey for secondary text */
+  --border: #e0e0e0; /* Light grey for borders */
+  --border-soft: rgba(0, 0, 0, 0.08); /* Soft border for hover states */
+  --primary: #A05AFF; /* Purple */
+  --primary-strong: #8a3edb; /* Darker purple for active states */
+  --secondary: #1BCFB4; /* Teal */
+  --accent: #FE9496; /* Pink/Red for accents */
+  --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Subtle shadow for cards */
+}
+
+
+
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--page-bg);
+  color: var(--text-primary);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font: inherit;
+}
